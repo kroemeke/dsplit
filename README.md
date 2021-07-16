@@ -1,3 +1,6 @@
+Forked from mayanez/dsplit - minor fixes + python3 + formatting via black + bd-r size change
+
+
 # dsplit
 Split a directory into sized directories. Source is left untouched, and # hardlinks are created in the destination.
 
